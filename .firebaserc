@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-auth-c5cb2": {
+      "hosting": {
+        "firebase-auth": [
+          "fir-auth-c5cb2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-auth-c5cb2"
+  }
+}
